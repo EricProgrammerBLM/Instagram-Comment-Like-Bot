@@ -1,0 +1,9 @@
+How it Works:
+
+You should have a number of Instagram accounts with their username and password in an excel spread sheet.
+Example: https://docs.google.com/spreadsheets/d/1m2s48ET7pRIimkL1FUR11n2cAXzWbEGkU6WMWLwNBnY/edit?usp=sharing
+
+You can use the Example above is a template. Once you run the code, the bot will ask for the path on your computer of that spread sheet.
+It will ask for the link of the comment you want to send likes to on Instagram (Right click on the comment heart)
+Then it will ask how many likes you want to send. Number of likes are based on how many accounts are in your spread sheet.
+It will then log in to the accounts provided, like the comment, log out and repeat.
